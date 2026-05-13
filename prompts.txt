@@ -1,0 +1,77 @@
+PROMPT 1:
+HOME PAGE CONTENT 
+
+Act as a professional website copywriter.
+
+Create homepage website copy for a modern Indian restaurant called "Spice Garden".
+
+Business Details:
+- Family-friendly restaurant
+- Serves authentic Indian cuisine
+- Comfortable atmosphere
+- Affordable prices
+- Online delivery available
+
+Target Audience:
+Families, food lovers, and college students.
+
+Tone:
+Warm, modern, welcoming, and professional.
+
+Include:
+1. Hero headline
+2. Short introduction
+3. Why choose us section
+4. Signature dishes section
+5. Customer experience section
+6. Strong call-to-action
+
+Make the content attractive, simple, and website-ready.
+
+PROMPT 2:
+Services Section
+
+Write a professional services section for Spice Garden Restaurant.
+
+Include:
+- Dine-in services
+- Online food delivery
+- Catering services
+- Family dining
+- Birthday party bookings
+
+Tone should be modern, engaging, and customer-friendly.
+
+PROMPT 3:
+About us
+
+Write an emotional and professional About Us section for Spice Garden Restaurant.
+
+Mention:
+- Passion for authentic Indian food
+- Fresh ingredients
+- Family-friendly environment
+- Great customer service
+
+Keep it simple and engaging.
+
+PROMPT 4:
+CTA 
+
+Generate 10 strong CTA lines for a restaurant website.
+
+The CTA should encourage users to:
+- Book tables
+- Order food online
+- Visit the restaurant
+
+Make them short, catchy, and professional.
+
+PROMPT 5:
+Luxury tone variation
+
+Rewrite the homepage content in an aesthetic Gen-Z style.
+
+Act as a professional website copywriter and create trendy, modern, and visually appealing website copy for young audiences.
+
+Use stylish, engaging, and social-media-friendly language while keeping it professional.
